@@ -1,0 +1,3 @@
+interface:
+  display_name: "科研甘特图"
+  short_description: "从研究计划生成分阶段甘特图"
